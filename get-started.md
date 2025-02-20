@@ -1,4 +1,4 @@
-# GET STARTED
+# GET STARTED #Hey from Quasar
 - Navigate to `gamechanger.finance`
   - OPTIONAL `https://beta-preprod-wallet.gamechanger.finance/`
 - In upper right-hand corner select `TRY BETA V2`
